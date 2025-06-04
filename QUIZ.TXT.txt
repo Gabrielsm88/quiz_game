@@ -1,0 +1,126 @@
+Qual função do python retorna o comprimento de uma lista? | Programação | 4 | count() | length() | len() | size() | total()
+O que significa 'print' em Python? | Programação | 1 | Exibir algo na tela | Criar uma variável | Iniciar um loop | Encerrar o código
+Qual símbolo é usado para comentar uma linha em Python? | Programação | 3 | ! | // | # | --
+Como se chama uma estrutura que repete instruções em programação? | Programação | 4 | condição | método | variável | loop
+Qual destes é um tipo de dado em muitas linguagens? | Programação | 1 | string | texto | palavra | caractere
+Qual comando usamos para definir uma função em Python? | Programação | 2 | function | def | define | func
+O que é uma variável do tipo 'boolean'? | Programação | 1 | Verdadeiro ou falso | Número decimal | Texto longo | Array de inteiros
+O que significa o operador '==' em Python? | Programação | 3 | Atribuição | Diferente | Comparação de igualdade | Comentário
+Qual é o resultado de '3 ** 2' em Python? | Programação | 4 | 5 | 6 | 9.0 | 9
+Qual é a principal característica da programação funcional? | Programação | 2 | Uso extensivo de loops | Funções puras e imutabilidade | Uso de classes e objetos | Variáveis globais constantes
+
+
+
+Qual é o nome do gato inimigo do Jerry? | Desenhos Animados | 2 | Spike | Tom | Max | Garfield
+Qual é o nome do personagem que vive em um abacaxi no fundo do mar? | Desenhos Animados | 1 | Bob Esponja | Patrick | Lula Molusco | Sandy
+Quem é o coelho que sempre diz 'O que é que há, velhinho?' | Desenhos Animados | 3 | Pernalonga | Patolino | Pernalonga | Piu-Piu
+Qual desenho apresenta criaturas chamadas 'Smurfs'? | Desenhos Animados | 1 | Os Smurfs | Os Azuis | Vila Encantada | Gnomos Azuis
+Em 'Os Simpsons', qual é o nome do pai da família? | Desenhos Animados | 2 | Bart | Homer | Ned | Moe
+Quem é o vilão principal de 'As Meninas Superpoderosas'? | Desenhos Animados | 4 | Professor Utônio | Macaco Loco | Mojo Risonho | Macaco Louco
+Qual é o nome do cavalo do Pica-Pau? | Desenhos Animados | 2 | Trovão | Pé de Pano | Relâmpago | Jeca
+Qual desses não é um personagem de 'Caverna do Dragão'? | Desenhos Animados | 3 | Presto | Eric | Marvin | Sheila
+Em 'Avatar: A Lenda de Aang', qual é o nome do bisão voador de Aang? | Desenhos Animados | 1 | Appa | Momo | Naga | Bumi
+Qual o nome verdadeiro do Zé Colmeia em inglês? | Desenhos Animados | 4 | Honey Joe | Buzz Bear | Grizzly Sam | Yogi Bear
+
+
+
+Qual é o menor país do mundo? | Curiosidades do Mundo | 3 | Mônaco | Nauru | Vaticano | Liechtenstein
+Qual animal é conhecido como o rei da selva? | Curiosidades do Mundo | 1 | Leão | Tigre | Gorila | Elefante
+Qual oceano é o maior do mundo? | Curiosidades do Mundo | 2 | Atlântico | Pacífico | Índico | Ártico
+Qual é o deserto mais seco do mundo? | Curiosidades do Mundo | 3 | Saara | Kalahari | Atacama | Gobi
+Qual país tem o maior número de vulcões ativos? | Curiosidades do Mundo | 4 | México | Indonésia | Japão | Estados Unidos
+Em qual continente está localizado o Egito? | Curiosidades do Mundo | 1 | África | Ásia | Europa | América
+Quantas línguas são faladas no mundo atualmente (aproximadamente)? | Curiosidades do Mundo | 2 | 1000 | 7000 | 2500 | 500
+Qual país tem a maior população do planeta? | Curiosidades do Mundo | 3 | Estados Unidos | Indonésia | China | Índia
+Qual é a montanha mais alta do mundo acima do nível do mar? | Curiosidades do Mundo | 1 | Everest | K2 | Kilimanjaro | Aconcágua
+Qual é o nome da rocha que se move sozinha no deserto de Racetrack Playa, nos EUA? | Curiosidades do Mundo | 4 | Pedra Viajante | Rocha Errante | Pedra do Silêncio | Sailing Stone
+
+
+
+Qual é a capital do Brasil? | Cultura Brasileira | 3 | São Paulo | Rio de Janeiro | Brasília | Salvador
+Qual é a festa popular brasileira conhecida por desfiles de escola de samba? | Cultura Brasileira | 2 | Festa Junina | Carnaval | Natal | Independência
+Qual é a principal língua falada no Brasil? | Cultura Brasileira | 1 | Português | Espanhol | Inglês | Italiano
+Qual é o prato típico feito com feijão preto, carne de porco e arroz? | Cultura Brasileira | 4 | Churrasco | Baião de dois | Vatapá | Feijoada
+Qual cidade é conhecida como a capital do frevo e do maracatu? | Cultura Brasileira | 2 | Salvador | Recife | Belo Horizonte | João Pessoa
+Qual é o nome do instrumento musical usado para tocar samba? | Cultura Brasileira | 1 | Pandeiro | Flauta | Teclado | Violino
+Qual é a origem da capoeira? | Cultura Brasileira | 3 | Europa | América do Norte | África | Ásia
+Quem é o autor da obra 'Macunaíma'? | Cultura Brasileira | 2 | Jorge Amado | Mário de Andrade | Machado de Assis | José de Alencar
+Em que região do Brasil é predominante o uso da cuia e da erva-mate? | Cultura Brasileira | 4 | Norte | Nordeste | Sudeste | Sul   
+Qual é o nome do movimento artístico brasileiro que surgiu com a Semana de Arte Moderna de 1922? | Cultura Brasileira | 1 | Modernismo | Realismo | Romantismo | Tropicalismo
+
+
+O que vó costuma dar para dor de barriga? | Sabedoria de Vó | 1 | Chá de boldo | Coca-Cola | Sorvete | Café
+Se você sair no vento com o cabelo molhado, o que acontece? | Sabedoria de Vó | 4 | Fica estiloso | Nada | Fica gripado | Pega um resfriado
+O que significa "quem não tem cão, caça com gato"? | Sabedoria de Vó | 2 | Gatos são mais espertos | A gente se vira com o que tem | Só cachorro caça | Não se deve caçar 
+O que vó manda fazer quando está com soluço? | Sabedoria de Vó | 3 | Dormir | Comer devagar | Beber água de cabeça para baixo | Tomar refrigerante
+O que vó diz para dor de garganta? | Sabedoria de Vó | 2 | Pastilha | Gargarejo com sal | Sorvete | Aspirina
+Qual o melhor remédio natural, segundo muitas avós? | Sabedoria de Vó | 1 | Chá | Água tônica | Água com gás | Leite gelado  
+O que significa "olho gordo", segundo a sabedoria popular? | Sabedoria de Vó | 3 | Inveja | Fome | Energia negativa | Doença nos olhos
+Por que vó coloca arruda atrás da orelha? | Sabedoria de Vó | 4 | Dor de cabeça | Cheiro bom | Tradição | Espantar mau-olhado
+O que significa sonhar com dente caindo? | Sabedoria de Vó | 2 | Vai ganhar presente | Alguém próximo vai morrer | Vai se casar | Vai ficar rico
+O que vó diz quando dá 3 espirros seguidos? | Sabedoria de Vó | 1 | É sinal de chuva | Vai ganhar presente | Tá com alergia | Vai casar
+
+
+
+Complete: 'Mais vale um pássaro na mão...' | Ditados Populares | 1 | do que dois voando | do que nenhum | do que um no mato | do que uma pedra
+Complete: 'Quem com ferro fere...' | Ditados Populares | 3 | morre cedo | não se queima | com ferro será ferido | aprende rápido
+Complete: 'De grão em grão...' | Ditados Populares | 2 | o rio enche | a galinha enche o papo | o celeiro cresce | a panela ferve
+O que significa 'Casa de ferreiro, espeto de pau'? | Ditados Populares | 4 | A casa está em chamas | É uma metáfora sobre fogo | Ferreiros não comem carne | Alguém que não pratica o que prega
+O que quer dizer o ditado: 'Água mole em pedra dura, tanto bate até que fura'? | Ditados Populares | 2 | Água causa erosão | Persistência leva ao sucesso | Pedra quebra água | A paciência se esgota
+Qual o significado de 'Filho de peixe, peixinho é'? | Ditados Populares | 1 | Tal pai, tal filho | Criança nasce sabendo nadar | Todo mundo gosta de água | Tudo vira sushi 
+O que significa o ditado: 'Quem espera sempre alcança'? | Ditados Populares | 3 | Dormir é bom | Quem tem paciência dorme melhor | Com persistência, o objetivo é atingido | Esperar sentado é mais confortável
+Complete: 'Em terra de cego...' | Ditados Populares | 1 | quem tem um olho é rei | ninguém enxerga | todo mundo tropeça | a luz é inútil
+O que significa 'Dar com os burros n’água'? | Ditados Populares | 2 | Conduzir animais ao banho | Fracassar em algo | Irritar os burros | Economizar energia
+Complete: 'Quem não tem colírio...' | Ditados Populares | 4 | chora mais | compra óculos | lava o olho | usa óculos escuros
+
+
+
+O que é uma CPU? | Computação | 2 | Memória de vídeo | Unidade Central de Processamento | Fonte de energia | Disco rígido
+Qual desses dispositivos é usado para armazenar arquivos? | Computação | 3 | Monitor | Teclado | HD | Impressora
+O que significa a sigla 'USB'? | Computação | 1 | Universal Serial Bus | United Storage Base | Ultra Software Block | Unique Signal Band 
+Qual é a principal função da RAM em um computador? | Computação | 4 | Alimentar a placa-mãe | Armazenar arquivos permanentemente | Conectar à internet | Armazenar dados temporariamente
+O que é um sistema operacional? | Computação | 2 | Um antivírus | Software que gerencia o hardware | Um tipo de hardware | Um programa de planilhas
+Qual desses é um sistema operacional? | Computação | 1 | Linux | Excel | Chrome | Firefox 
+O que faz a placa-mãe em um computador? | Computação | 3 | Armazena arquivos | Exibe imagens | Conecta todos os componentes | Processa dados de entrada
+Qual é a unidade de medida usada para a velocidade do processador? | Computação | 2 | GB | GHz | MB | RPM
+O que significa o termo 'bit'? | Computação | 1 | Unidade básica de informação | Velocidade de transmissão | Tipo de processador | Linguagem de máquina
+Qual foi o primeiro computador eletrônico de uso geral da história? | Computação | 4 | IBM 1401 | Z3 | UNIVAC I | ENIAC
+
+
+
+Qual é o nome do protagonista de Dragon Ball? | Animes | 1 | Goku | Naruto | Luffy | Ichigo
+Quem é o ninja que tem a Raposa de Nove Caudas selada dentro de si? | Animes | 2 | Sasuke | Naruto | Kakashi | Gaara
+Qual é o nome do pirata protagonista de One Piece? | Animes | 3 | Zoro | Ace | Luffy | Shanks 
+Em Death Note, qual é o nome verdadeiro do personagem 'Kira'? | Animes | 4 | L | Ryuk | Near | Light Yagami
+Qual anime apresenta titãs gigantes que atacam cidades humanas? | Animes | 1 | Attack on Titan | One Piece | Bleach | My Hero Academia
+Em 'My Hero Academia', qual é o nome do herói símbolo da paz? | Animes | 2 | Deku | All Might | Bakugo | Endeavor
+Em Fullmetal Alchemist, qual é o princípio da alquimia? | Animes | 3 | Magia e poder | Fusão molecular | Troca equivalente | Energia vital
+Qual é o nome do clã do qual Itachi Uchiha faz parte? | Animes | 1 | Uchiha | Hyuuga | Aburame | Senju
+No anime Bleach, o que é um Shinigami? | Animes | 2 | Demônio | Deus da morte | Espírito guardião | Guerreiro da alma
+Qual é o nome do criador do mangá One Piece? | Animes | 4 | Akira Toriyama | Masashi Kishimoto | Naoko Takeuchi | Eiichiro Oda
+
+
+
+Quem é conhecido como o Rei do Pop? | Músicas | 2 | Elvis Presley | Michael Jackson | Prince | Justin Timberlake
+Qual é o nome da cantora famosa por hits como “Hello” e “Someone Like You”? | Músicas | 4 | Beyoncé | Rihanna | Taylor Swift | Adele
+Qual é o ritmo musical típico do carnaval brasileiro? | Músicas | 1 | Samba | Axé | Frevo | Funk
+Qual banda britânica é famosa por músicas como “Hey Jude” e “Let It Be”? | Músicas | 2 | Queen | The Beatles | Oasis | Pink Floyd
+Qual estilo musical tem origem no sertão nordestino e é conhecido pelo uso da sanfona? | Músicas | 3 | Samba | MPB | Forró | Choro
+Qual é o nome do festival de música que surgiu em Woodstock, em 1969? | Músicas | 1 | Woodstock | Lollapalooza | Coachella | Glastonbury
+Quem compôs a música “Garota de Ipanema”? | Músicas | 3 | Roberto Carlos | Caetano Veloso | Tom Jobim | Djavan
+Qual é o nome do movimento musical liderado por Caetano Veloso e Gilberto Gil nos anos 60? | Músicas | 2 | Bossa Nova | Tropicália | Samba-Rock | Jovem Guarda
+Quem é a artista brasileira famosa por “Envolvimento”, sucesso no Carnaval de 2018? | Músicas | 4 | Ludmilla | IZA | Anitta | MC Loma
+Qual é o nome da sinfonia mais famosa de Beethoven? | Músicas | 1 | Nona Sinfonia | Quarta Sinfonia | Quinta Sinfonia | Terceira Sinfonia
+
+
+
+Qual meme é associado à frase “É verdade esse bilete”? | Memes e Internet | 2 | Gato digitando | Menino da internet | Bilhete escolar | Dilma explicando
+Qual o nome do gato branco com cara de bravo usado em memes com legenda? | Memes e Internet | 3 | Garfield | Felix | Smudge | Bolinha
+Qual personagem da internet ficou famosa dançando “Ai se eu te pego”? | Memes e Internet | 1 | Kefera | Gracyanne | Nicole Bahls | Michel Teló
+Qual youtuber brasileiro ficou famoso com o bordão “Fala, galera! Aqui é o Felipe Neto”? | Memes e Internet | 2 | Whindersson Nunes | Felipe Neto | Júlio Cocielo | Lucas Neto
+Qual meme é usado para mostrar confusão, com cálculos aparecendo na tela? | Memes e Internet | 3 | Gato gritando | Nazaré confusa | Chaves triste | Paolla matemática
+Em qual rede social surgiu o meme “Tá tranquilo, tá favorável”? | Memes e Internet | 1 | Vine | TikTok | Instagram | YouTube
+Qual foi o vídeo viral em que uma pessoa grita “Para, Pedro!”? | Memes e Internet | 4 | Irmãos no quarto | Briga por gelatina | Criança no YouTube | Irmãos brigando com ventilador
+O que representa o “meme do caixão”, com homens dançando e carregando um caixão? | Memes e Internet | 2 | Casamento | Morte com humor | Festa africana | Aniversário
+Qual desses é um meme antigo do Orkut? | Memes e Internet | 1 | Sanduíche-iche | Gato de botas | Meme do Raul | Naruto VS Goku
+Qual foi o primeiro vídeo a atingir 1 bilhão de visualizações no YouTube? | Memes e Internet | 4 | Baby | Evolution of Dance | Chocolate Rain | Gangnam Style
