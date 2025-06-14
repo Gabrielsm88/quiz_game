@@ -1,0 +1,10 @@
+pedro|10
+jorge|10
+gabriel|5
+lucas|5
+Pedro|4
+ricardinho|2
+flavio|1
+Gabriel de Souza Magalhães|1
+eduardo|0
+joao|0

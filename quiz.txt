@@ -1,0 +1,54 @@
+Qual função do python retorna o comprimento de uma lista? | Programação | count() | length() | len() | size() | C
+O que significa 'print' em Python? | Programação | Exibir algo na tela | Criar uma variável | Iniciar um loop | Encerrar o código | A
+Qual símbolo é usado para comentar uma linha em Python? | Programação | ! | // | # | -- | C
+Como se chama uma estrutura que repete instruções em programação? | Programação | condição | método | variável | loop | D
+Qual destes é um tipo de dado em muitas linguagens? | Programação | string | texto | palavra | caractere | A
+Qual comando usamos para definir uma função em Python? | Programação | function | def | define | func | B
+O que é uma variável do tipo 'boolean'? | Programação | Verdadeiro ou falso | Número decimal | Texto longo | Array de inteiros | A
+O que significa o operador '==' em Python? | Programação | Atribuição | Diferente | Comparação de igualdade | Comentário | C
+Qual é o resultado de '3 ** 2' em Python? | Programação | 5 | 6 | 9.0 | 9 | D
+Qual é a principal característica da programação funcional? | Programação | Uso extensivo de loops | Funções puras e imutabilidade | Uso de classes e objetos | Variáveis globais constantes | B
+
+Qual é o nome do gato inimigo do Jerry? | Desenhos Animados | Spike | Tom | Max | Garfield | B
+Qual é o nome do personagem que vive em um abacaxi no fundo do mar? | Desenhos Animados | Bob Esponja | Patrick | Lula Molusco | Sandy | A
+Quem é o coelho que sempre diz 'O que é que há, velhinho?' | Desenhos Animados | Pernalonga | Patolino | Pernalonga | Piu-Piu | A
+Qual desenho apresenta criaturas chamadas 'Smurfs'? | Desenhos Animados | Os Smurfs | Os Azuis | Vila Encantada | Gnomos Azuis | A
+Em 'Os Simpsons', qual é o nome do pai da família? | Desenhos Animados | Bart | Homer | Ned | Moe | B
+Quem é o vilão principal de 'As Meninas Superpoderosas' ? | Desenhos Animados | Professor Utônio | Macaco Loco | Mojo Risonho | Macaco Louco | D
+Qual é o nome do cavalo do Pica-Pau? | Desenhos Animados | Trovão | Pé de Pano | Relâmpago | Jeca | A
+Qual desses não é um personagem de 'Caverna do Dragão' ? | Desenhos Animados | Presto | Eric | Marvin | Sheila | C
+Em 'Avatar: A Lenda de Aang', qual é o nome do bisão voador de Aang? | Desenhos Animados | Appa | Momo | Naga | Bumi | A
+Qual o nome verdadeiro do Zé Colmeia em inglês? | Desenhos Animados | Honey Joe | Buzz Bear | Grizzly Sam | Yogi Bear | D
+
+Qual é o menor país do mundo? | Curiosidades | Mônaco | Nauru | Vaticano | Liechtenstein | C
+Qual animal é conhecido como o rei da selva? | Curiosidades | Leão | Tigre | Gorila | Elefante | A
+Qual oceano é o maior do mundo? | Curiosidades | Atlântico | Pacífico | Índico | Ártico | B
+Qual é o deserto mais seco do mundo? | Curiosidades | Saara | Kalahari | Atacama | Gobi | C
+Qual país tem o maior número de vulcões ativos? | Curiosidades | México | Indonésia | Japão | Estados Unidos | B
+Em qual continente está localizado o Egito? | Curiosidades | África | Ásia | Europa | América | A
+Quantas línguas são faladas no mundo atualmente (aproximadamente)? | Curiosidades | 1000 | 7000 | 2500 | 500 | B
+Qual país tem a maior população do planeta? | Curiosidades | Estados Unidos | Indonésia | China | Índia | C
+Qual é a montanha mais alta do mundo acima do nível do mar? | Curiosidades | Everest | K2 | Kilimanjaro | Aconcágua | A
+
+Qual é o nome da rocha que se move sozinha no deserto de Racetrack Playa, nos EUA? | Curiosidades | Pedra Viajante | Rocha Errante | Pedra do Silêncio | Sailing Stone | A
+Qual é a capital do Brasil? | Cultura Brasileira | São Paulo | Rio de Janeiro | Brasília | Salvador | C
+Qual é a festa popular brasileira conhecida por desfiles de escola de samba? | Cultura Brasileira | Festa Junina | Carnaval | Natal | Independência | B
+Qual é a principal língua falada no Brasil? | Cultura Brasileira | Português | Espanhol | Inglês | Italiano | A
+Qual é o prato típico feito com feijão preto, carne de porco e arroz? | Cultura Brasileira | Churrasco | Baião de dois | Vatapá | Feijoada | D
+Qual cidade é conhecida como a capital do frevo e do maracatu? | Cultura Brasileira | Salvador | Recife | Belo Horizonte | João Pessoa | B
+Qual é o nome do instrumento musical usado para tocar samba? | Cultura Brasileira | Pandeiro | Flauta | Teclado | Violino | A
+Qual é a origem da capoeira? | Cultura Brasileira | Europa | América do Norte | África | Ásia | C
+Quem é o autor da obra 'Macunaíma' ? | Cultura Brasileira | Jorge Amado | Mário de Andrade | Machado de Assis | José de Alencar | A
+Em que região do Brasil é predominante o uso da cuia e da erva-mate? | Cultura Brasileira | Norte | Nordeste | Sudeste | Sul | D
+
+Qual é o nome do movimento artístico brasileiro que surgiu com a Semana de Arte Moderna de 1922? | Cultura Brasileira | Modernismo | Realismo | Romantismo | Tropicalismo | A
+O que vó costuma dar para dor de barriga? | Sabedoria de Vó | Chá de boldo | Coca-Cola | Sorvete | Café | A
+Se você sair no vento com o cabelo molhado, o que acontece? | Sabedoria de Vó | Fica estiloso | Nada | Fica gripado | Pega um resfriado | D
+O que significa 'quem não tem cão, caça com gato'? | Sabedoria de Vó | Gatos são mais espertos | A gente se vira com o que tem | Só cachorro caça | Não se deve caçar | B
+O que vó manda fazer quando está com soluço? | Sabedoria de Vó | Dormir | Comer devagar | Beber água de cabeça para baixo | Tomar refrigerante | C
+O que vó diz que é bom para dor de garganta? | Sabedoria de Vó | Pastilha | Gargarejo com sal | Sorvete | Aspirina | B
+Qual o melhor remédio natural, segundo muitas avós? | Sabedoria de Vó | Chá | Água tônica | Água com gás | Leite gelado | A
+O que significa 'olho gordo', segundo a sabedoria popular? | Sabedoria de Vó | Inveja | Fome | Energia negativa | Doença nos olhos | A
+Por que vó coloca arruda atrás da orelha? | Sabedoria de Vó | Dor de cabeça | Cheiro bom | Tradição | Espantar mau-olhado | D
+O que significa sonhar com dente caindo? | Sabedoria de Vó | Vai ganhar presente | Alguém próximo vai morrer | Vai se casar | Vai ficar rico | B
+O que vó diz quando dá 3 espirros seguidos? | Sabedoria de Vó | É sinal de chuva | Vai ganhar presente | Tá com alergia | Vai casar | A
